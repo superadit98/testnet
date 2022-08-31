@@ -22,7 +22,7 @@ Official documentation:
 ### Option 1 (automatic)
 You can setup your Masanode in few minutes by using automated script below. It will prompt you to input your node name!
 ```
-wget -O masa.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/masa/masa.sh && chmod +x masa.sh && ./masa.sh
+wget -O masa.sh https://raw.githubusercontent.com/superadit98/testnet/main/masa/masa.sh && chmod +x masa.sh && ./masa.sh
 ```
 
 ## Usefull commands
