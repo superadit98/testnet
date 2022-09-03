@@ -9,10 +9,10 @@
 
 
 
-# Masa node setup
+# Aleo node setup
 
 Official documentation:
-- https://github.com/masa-finance/masa-node-v1.0
+- https://github.com/AleoHQ/snarkOS#3a-run-an-aleo-client-node
 
 ## Minimal hardware requirements
 - CPU: 16-cores (32-cores preferred)
@@ -44,7 +44,7 @@ systemctl restart aleod
 systemctl stop aleod
 ```
 
-### Delte Node
+### Delete Node
 ```
 wget -q -O aleo_remove_snarkos2.sh https://api.nodes.guru/aleo_remove_snarkos2.sh && chmod +x aleo_remove_snarkos2.sh && sudo /bin/bash aleo_remove_snarkos2.sh
 
