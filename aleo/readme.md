@@ -1,6 +1,7 @@
 
 <p style="font-size:14px" align="left">
 <a href="https://upasian.org/" target="_blank">Visit our website </a>
+  </p>
 <a href="https://nodes.guru/aleo/setup-guide/en" target="_blank">Guide From Node Guru</a>
 </p>
 
