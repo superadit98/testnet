@@ -34,7 +34,7 @@ sudo su && sudo ufw enable && sudo ufw allow 9151
 ## Siapkan Nulink Fullnode Anda
 Anda dapat mengatur nulink fullnode Anda dalam beberapa menit dengan menggunakan skrip otomatis di bawah ini. Ini akan meminta Anda untuk memasukkan nama node validator Anda!
 ```
-wget -O nulink.sh https://raw.githubusercontent.com/superadit98/testnet_node/main/nulink/nulink.sh && chmod +x nulink.sh && ./nulink.sh
+wget -O nulink.sh https://raw.githubusercontent.com/superadit98/testnet/main/nulink/nulink.sh && chmod +x nulink.sh && ./nulink.sh
 ```
 Setelah selesai instalasi jangan lupa isi password,, dan simpan output yang keluar dan kirim BNB TESTNET ke `Public address of the key:  0x09F8D521efcdED0aeee152xxxxxxxxxxxxxxxxxx
 ` 
