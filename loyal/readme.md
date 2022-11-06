@@ -1,4 +1,4 @@
-<p style="font-size:14px" align="right">
+<p style="font-size:14px" align="left">
 <a href="https://upasian.org" target="_blank">Visit our website</a>
 </p>
 
@@ -33,7 +33,7 @@ https://docs.joinloyal.io/validators/run-a-loyal-validator
 ## Instalisasi Otomatis
 
 ```
-wget -O loyal.sh https://raw.githubusercontent.com/bangpateng/Loyal/main/loyal.sh && chmod +x loyal.sh && ./loyal.sh
+wget -O loyal.sh https://raw.githubusercontent.com/superadit98/testnet/main/loyal/loyal.sh && chmod +x loyal.sh && ./loyal.sh
 ```
 
 ### Langkah-Langkah Pasca-Instalasi
