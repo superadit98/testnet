@@ -24,7 +24,7 @@ The following are **minimum** requirements to run an Aleo node:
 # Automatic Install
 
 ```
-wget -O prover.sh https://raw.githubusercontent.com/superadit98/aleo-prover/main/prover.sh && chmod +x prover.sh && ./prover.sh
+wget -O prover.sh https://raw.githubusercontent.com/superadit98/testnet/main/aleo-prover/prover.sh && chmod +x prover.sh && ./prover.sh
 ```
 
 Wait until instalation done.
